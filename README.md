@@ -28,6 +28,6 @@ I am a self-taught front-end developer. <br>
 </table>
 
 ## 💬 You can contact me here: 
-- email: doganeraylinn@gmail.com
-- Linkedin- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-do%C4%9Faner-961907214/)
+- Email: doganeraylinn@gmail.com
+- Linkedin [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylin-do%C4%9Faner-961907214/)
 
