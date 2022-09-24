@@ -20,9 +20,9 @@ I am a self-taught front-end developer. <br>
 <tr><th> Languages </th></tr>
 <tr><td><div align="center">
 
-| English | Turkish | French  | Spanish |
-|:-------:|:-------:|:-------:|:-------:|
-| C2      | Native  | A2      | A1   |
+| English | Turkish | French  |
+|:-------:|:-------:|:-------:|
+| C2      | Native  | A2      |
 
   </div></td></tr> 
 </table>
