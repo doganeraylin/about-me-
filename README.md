@@ -23,9 +23,9 @@ Hi! I'm a self-taught frontend developer with a passion for creating intuitive a
 <tr><th> Languages </th></tr>
 <tr><td><div align="center">
 
-| English | Turkish | |  French |
-|:-------:|:-------:| |:-------:|
-| C2      | Native  | | A2 |
+| English | Turkish | French | 
+|:-------:|:-------:|:-------:| 
+| C2      | Native  | A2  | 
 
   </div></td></tr> 
 </table>
