@@ -1,6 +1,6 @@
 ### Hello! This is Aylin!
 
-Hi! I'm a self-taught frontend developer with a passion for creating intuitive and engaging user experiences. I have a background in teaching English, and I have been exploring the world of frontend development for the past 8 months. My tech stack includes Next.js, React, JavaScript, SASS, CSS, Bootstrap, HTML, Strapi, PostgreSQL, TypeScript, Git, GitHub, Figma and Canva. I am excited to continue learning and growing in this field, and I'm eager to bring my skills and enthusiasm to a new frontend development role. <br>
+Hi! I'm a self-taught frontend developer with a passion for creating intuitive and engaging user experiences. I have a background in teaching English, and I have been exploring the world of frontend development since March 2022. My tech stack includes Next.js, React, JavaScript, SASS, CSS, Bootstrap, HTML, Strapi, PostgreSQL, TypeScript, Git, GitHub, Figma and Canva. I am excited to continue learning and growing in this field, and I'm eager to bring my skills and enthusiasm to a new frontend development role. <br>
 
 
 
